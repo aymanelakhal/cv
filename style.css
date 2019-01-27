@@ -1,4 +1,11 @@
 h1{
-	
+	font-size:28px;
 	color:green;
+}
+h2{
+	font-size:20px;
+	color:#3388BB;
+	text-transform:uppercase;
+	border-bottom:2px solid #3388DD;
+	
 }
