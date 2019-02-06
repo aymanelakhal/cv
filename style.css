@@ -1,7 +1,20 @@
-.mdl-slider__container {
-    background-color: white !important; /* Met le fond de la barre en blanc */
-    position: fixed !important; /* Permet de définir la position de la barre comme fixe */
-    top: 0; /* Défini la postion de la barre en haut */
-    z-index: 200; /* Une valeur élevée ici permet de s'assurer que l'élément est au dessus des autres */
-    width: 100vw; /* Défini la largeur de l'élément comme étant 100% de la largeur de l'écran */
+h1{
+	font-size:28px;
+	color:green;
+	text-align:center;
+	
 }
+h2{
+	font-size:20px;
+	color:#3388BB;
+	text-transform:uppercase;
+	border-bottom:2px solid #3388DD;
+	
+	
+}
+a:visited{
+	color:blue;
+}
+#photo{width:170px;
+top:80px;}
+body{}
